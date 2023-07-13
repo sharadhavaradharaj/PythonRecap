@@ -15,4 +15,7 @@ for x in range(10):
     print(x+c)
  
 print("x")
+print("hi")
+print("hi again")
+
 
