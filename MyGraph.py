@@ -7,16 +7,16 @@ plt.plot(x, np.sin(x))
 plt.show()
 
 msg = "hellow world"
-print(msg)
-a   =   1
-b=  2
-c=a+b
-for x in range(10):
-    print(x+c)
+# print(msg)
+# a   =   1
+# b=  2
+# c=a+b
+# for x in range(10):
+#     print(x+c)
  
-print("x")
-print("hi")
-print("hi again")
+# print("x")
+# print("hi")
+# print("hi again")
 
-print("name")
+# print("name")d
 
